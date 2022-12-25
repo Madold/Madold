@@ -1,6 +1,6 @@
 <header align="center">
     <h1 align="center">Hello, I'm Marco Portacio <img src="https://i2.wp.com/www.android.com/static/2016/img/home/holiday-hero/android-8-oreo.gif?w=900&ssl=1" width="70"/></h1>
-    <h3 align="center">A self-taught Android front-end developer from Colombia, passionate about programming, building usefull applications and learning new things </h3>
+    <h3 align="center">A self-taught Android front-end developer from Colombia, passionate about programming, building usefull applications and learning new things. </h3>
 </header>
 
 <div class="badges" align="center">
